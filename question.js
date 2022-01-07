@@ -48,12 +48,12 @@ let question = [
         ans: "APJ Abdul Kalam"
     },
     {
-        qs :" No of colors are there in Indian National Flag ?",
-        o1 : "three",
-        o2 : "Four",
-        o3 : "five",
-        o4 : "none",
-        ans: "Four"
+        qs :" What are the Official Languages of India?",
+        o1 : "Hindi",
+        o2 : "English",
+        o3 : "Marathi",
+        o4 : "Bengali",
+        ans: "1 and 2 both"
     },
     {
         qs :" What is the Position of Indian Air Force in world Air Power Index?",
@@ -64,19 +64,19 @@ let question = [
         ans: "4"
     },
     {
-        qs :" No of colors are there in Indian National Flag ?",
-        o1 : "three",
-        o2 : "Four",
-        o3 : "five",
-        o4 : "none",
-        ans: "Four"
+        qs :" What is the percentage of Literacy in India?",
+        o1 : "74.4%",
+        o2 : "72.4%",
+        o3 : "71.4%",
+        o4 : "70.4%",
+        ans: "none"
     },
     {
-        qs :" No of colors are there in Indian National Flag ?",
-        o1 : "three",
-        o2 : "Four",
-        o3 : "five",
-        o4 : "none",
+        qs :"What is India's official name?",
+        o1 : "Bharat/Republic of India",
+        o2 : "Bharat/India",
+        o3 : "Hind/India",
+        o4 : "Hind/Republic of India",
         ans: "Four"
     },
 ]
